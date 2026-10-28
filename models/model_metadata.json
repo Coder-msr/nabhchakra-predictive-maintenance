@@ -1,0 +1,200 @@
+{
+  "model_name": "RandomForestClassifier",
+  "trained_timestamp": "2026-10-28 07:26:08 UTC",
+  "random_seed": 42,
+  "hyperparameters": {
+    "n_estimators": 100,
+    "max_depth": 6,
+    "min_samples_split": 4,
+    "class_weight": "balanced"
+  },
+  "dataset_summary": {
+    "train_samples": 315,
+    "train_aircraft_count": 21,
+    "train_positive_rate": 0.0857,
+    "test_samples": 105,
+    "test_aircraft_count": 7,
+    "test_positive_rate": 0.0667
+  },
+  "evaluation_metrics": {
+    "accuracy": 0.9619,
+    "precision": 0.7143,
+    "recall": 0.7143,
+    "f1_score": 0.7143,
+    "roc_auc": 0.9417,
+    "confusion_matrix": {
+      "tn": 96,
+      "fp": 2,
+      "fn": 2,
+      "tp": 5
+    }
+  },
+  "top_features": [
+    {
+      "feature": "comp_health_index",
+      "importance": 0.2364
+    },
+    {
+      "feature": "hyd_min_30d",
+      "importance": 0.0794
+    },
+    {
+      "feature": "vib_mean_30d",
+      "importance": 0.0764
+    },
+    {
+      "feature": "hyd_mean_30d",
+      "importance": 0.0671
+    },
+    {
+      "feature": "vib_max_30d",
+      "importance": 0.0654
+    },
+    {
+      "feature": "hyd_std_30d",
+      "importance": 0.0498
+    },
+    {
+      "feature": "temp_max_30d",
+      "importance": 0.0417
+    },
+    {
+      "feature": "vib_trend_slope",
+      "importance": 0.0379
+    }
+  ],
+  "all_feature_importances": [
+    {
+      "feature": "comp_health_index",
+      "importance": 0.2364
+    },
+    {
+      "feature": "hyd_min_30d",
+      "importance": 0.0794
+    },
+    {
+      "feature": "vib_mean_30d",
+      "importance": 0.0764
+    },
+    {
+      "feature": "hyd_mean_30d",
+      "importance": 0.0671
+    },
+    {
+      "feature": "vib_max_30d",
+      "importance": 0.0654
+    },
+    {
+      "feature": "hyd_std_30d",
+      "importance": 0.0498
+    },
+    {
+      "feature": "temp_max_30d",
+      "importance": 0.0417
+    },
+    {
+      "feature": "vib_trend_slope",
+      "importance": 0.0379
+    },
+    {
+      "feature": "temp_std_30d",
+      "importance": 0.0361
+    },
+    {
+      "feature": "temp_trend_slope",
+      "importance": 0.0327
+    },
+    {
+      "feature": "comp_type_Avionics & Radar System",
+      "importance": 0.0324
+    },
+    {
+      "feature": "temp_mean_30d",
+      "importance": 0.0303
+    },
+    {
+      "feature": "aircraft_flight_cycles",
+      "importance": 0.0257
+    },
+    {
+      "feature": "aircraft_flight_hours",
+      "importance": 0.0229
+    },
+    {
+      "feature": "oil_mean_30d",
+      "importance": 0.0216
+    },
+    {
+      "feature": "vib_std_30d",
+      "importance": 0.0207
+    },
+    {
+      "feature": "oil_std_30d",
+      "importance": 0.0204
+    },
+    {
+      "feature": "anomaly_score_mean_14d",
+      "importance": 0.02
+    },
+    {
+      "feature": "comp_type_Hydraulic Actuator",
+      "importance": 0.0189
+    },
+    {
+      "feature": "latest_anomaly_score",
+      "importance": 0.0158
+    },
+    {
+      "feature": "oil_min_30d",
+      "importance": 0.0155
+    },
+    {
+      "feature": "anomaly_score_max_14d",
+      "importance": 0.014
+    },
+    {
+      "feature": "comp_operating_hours",
+      "importance": 0.0133
+    },
+    {
+      "feature": "comp_type_Landing Gear Assembly",
+      "importance": 0.0028
+    },
+    {
+      "feature": "comp_type_Auxiliary Power Unit (APU)",
+      "importance": 0.0015
+    },
+    {
+      "feature": "comp_type_Turbofan Engine",
+      "importance": 0.0015
+    }
+  ],
+  "feature_columns": [
+    "temp_mean_30d",
+    "temp_std_30d",
+    "temp_max_30d",
+    "temp_trend_slope",
+    "vib_mean_30d",
+    "vib_std_30d",
+    "vib_max_30d",
+    "vib_trend_slope",
+    "oil_mean_30d",
+    "oil_std_30d",
+    "oil_min_30d",
+    "hyd_mean_30d",
+    "hyd_std_30d",
+    "hyd_min_30d",
+    "anomaly_score_mean_14d",
+    "anomaly_score_max_14d",
+    "latest_anomaly_score",
+    "comp_operating_hours",
+    "aircraft_flight_hours",
+    "aircraft_flight_cycles",
+    "comp_health_index",
+    "comp_type_Turbofan Engine",
+    "comp_type_Hydraulic Actuator",
+    "comp_type_Avionics & Radar System",
+    "comp_type_Auxiliary Power Unit (APU)",
+    "comp_type_Landing Gear Assembly"
+  ]
+}
