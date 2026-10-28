@@ -1,0 +1,15 @@
+fault_id,aircraft_id,component_id,fault_code,severity,detected_timestamp,description,is_resolved
+FLT-0001,AF-007,CMP-0032,HYD-PRESS-LOW,Moderate,2026-10-24 12:00:00,Hydraulic subsystem pressure loss: 175.4 bar,0
+FLT-0002,AF-001,CMP-0005,VIB-HARMONIC-02,Moderate,2026-10-26 12:00:00,Excessive vibration RMS detected: 4.31 mm/s,0
+FLT-0003,AF-002,CMP-0007,HYD-PRESS-LOW,Critical,2026-10-26 12:00:00,Hydraulic subsystem pressure loss: 174.9 bar,0
+FLT-0004,AF-018,CMP-0090,VIB-HARMONIC-02,Moderate,2026-10-26 12:00:00,Excessive vibration RMS detected: 4.35 mm/s,0
+FLT-0005,AF-024,CMP-0116,OIL-PRESS-DEV,Moderate,2026-10-26 12:00:00,Abnormal oil pressure: 32.6 PSI,0
+FLT-0006,AF-024,CMP-0117,HYD-PRESS-LOW,Moderate,2026-10-26 12:00:00,Hydraulic subsystem pressure loss: 175.2 bar,0
+FLT-0007,AF-001,CMP-0005,VIB-HARMONIC-02,Moderate,2026-10-28 12:00:00,Excessive vibration RMS detected: 4.37 mm/s,0
+FLT-0008,AF-002,CMP-0007,HYD-PRESS-LOW,Moderate,2026-10-28 12:00:00,Hydraulic subsystem pressure loss: 175.7 bar,0
+FLT-0009,AF-002,CMP-0010,VIB-HARMONIC-02,Moderate,2026-10-28 12:00:00,Excessive vibration RMS detected: 4.4 mm/s,0
+FLT-0010,AF-007,CMP-0032,HYD-PRESS-LOW,Critical,2026-10-28 12:00:00,Hydraulic subsystem pressure loss: 171.6 bar,0
+FLT-0011,AF-009,CMP-0041,VIB-HARMONIC-02,Critical,2026-10-28 12:00:00,Excessive vibration RMS detected: 4.62 mm/s,0
+FLT-0012,AF-016,CMP-0077,HYD-PRESS-LOW,Critical,2026-10-28 12:00:00,Hydraulic subsystem pressure loss: 173.2 bar,0
+FLT-0013,AF-016,CMP-0080,VIB-HARMONIC-02,Critical,2026-10-28 12:00:00,Excessive vibration RMS detected: 4.53 mm/s,0
+FLT-0014,AF-026,CMP-0129,VIB-HARMONIC-02,Moderate,2026-10-28 12:00:00,Excessive vibration RMS detected: 4.47 mm/s,0

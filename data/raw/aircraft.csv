@@ -1,0 +1,29 @@
+aircraft_id,tail_number,model_type,role,squadron_id,commission_date,total_flight_hours,total_flight_cycles,operational_status,last_inspection_date,next_inspection_due
+AF-001,IAF-SU-101,Su-30MKI,Air Superiority / Strike,No. 102 Squadron (Trisonics),2023-08-02,1567.6,1208,Available,2026-08-17,2026-11-15
+AF-002,IAF-SU-102,Su-30MKI,Air Superiority / Strike,No. 17 Squadron (Golden Arrows),2023-11-10,2689.5,1716,Available,2026-09-17,2026-12-16
+AF-003,IAF-SU-103,Su-30MKI,Air Superiority / Strike,No. 45 Squadron (Flying Daggers),2024-07-15,1767.4,1310,Available,2026-06-22,2026-09-20
+AF-004,IAF-SU-104,Su-30MKI,Air Superiority / Strike,No. 7 Squadron (Battle Axes),2019-10-19,1396.3,862,Available,2026-06-10,2026-09-08
+AF-005,IAF-SU-105,Su-30MKI,Air Superiority / Strike,No. 77 Squadron (Veiled Vipers),2020-02-04,1989.4,1259,Available,2026-09-02,2026-12-01
+AF-006,IAF-SU-106,Su-30MKI,Air Superiority / Strike,No. 102 Squadron (Trisonics),2023-10-18,1602.3,1039,Available,2026-08-07,2026-11-05
+AF-007,IAF-RA-107,Rafale,Omnirole Fighter,No. 17 Squadron (Golden Arrows),2024-05-07,663.5,495,In Maintenance,2026-07-15,2026-10-13
+AF-008,IAF-RA-108,Rafale,Omnirole Fighter,No. 45 Squadron (Flying Daggers),2024-01-21,1411.9,929,Available,2026-08-23,2026-11-21
+AF-009,IAF-RA-109,Rafale,Omnirole Fighter,No. 7 Squadron (Battle Axes),2022-03-23,1930.7,1307,Under Inspection,2026-08-04,2026-11-02
+AF-010,IAF-RA-110,Rafale,Omnirole Fighter,No. 77 Squadron (Veiled Vipers),2023-01-04,1210.6,743,Available,2026-08-26,2026-11-24
+AF-011,IAF-RA-111,Rafale,Omnirole Fighter,No. 102 Squadron (Trisonics),2024-01-13,2628.2,2000,Available,2026-08-31,2026-11-29
+AF-012,IAF-RA-112,Rafale,Omnirole Fighter,No. 17 Squadron (Golden Arrows),2020-07-30,943.7,623,Available,2026-07-02,2026-09-30
+AF-013,IAF-TE-113,Tejas Mk1A,Light Combat Fighter,No. 45 Squadron (Flying Daggers),2024-03-16,1347.9,817,Available,2026-09-17,2026-12-16
+AF-014,IAF-TE-114,Tejas Mk1A,Light Combat Fighter,No. 7 Squadron (Battle Axes),2022-06-20,2296.7,1692,Under Inspection,2026-07-11,2026-10-09
+AF-015,IAF-TE-115,Tejas Mk1A,Light Combat Fighter,No. 77 Squadron (Veiled Vipers),2019-03-28,749.9,529,Available,2026-07-01,2026-09-29
+AF-016,IAF-TE-116,Tejas Mk1A,Light Combat Fighter,No. 102 Squadron (Trisonics),2021-11-20,1485.6,921,In Maintenance,2026-07-29,2026-10-27
+AF-017,IAF-TE-117,Tejas Mk1A,Light Combat Fighter,No. 17 Squadron (Golden Arrows),2023-01-15,2856.0,2039,In Maintenance,2026-07-29,2026-10-27
+AF-018,IAF-MI-118,Mirage 2000,Multi-Role Fighter,No. 45 Squadron (Flying Daggers),2023-07-20,2135.8,1285,Available,2026-07-15,2026-10-13
+AF-019,IAF-MI-119,Mirage 2000,Multi-Role Fighter,No. 7 Squadron (Battle Axes),2023-08-02,1447.2,1062,Available,2026-09-01,2026-11-30
+AF-020,IAF-MI-120,Mirage 2000,Multi-Role Fighter,No. 77 Squadron (Veiled Vipers),2021-11-18,2835.5,2023,Grounded,2026-06-16,2026-09-14
+AF-021,IAF-MI-121,Mirage 2000,Multi-Role Fighter,No. 102 Squadron (Trisonics),2021-06-27,2954.1,2279,In Maintenance,2026-07-19,2026-10-17
+AF-022,IAF-C--122,C-130J,Tactical Transport,No. 17 Squadron (Golden Arrows),2019-05-10,2735.3,1797,Available,2026-08-06,2026-11-04
+AF-023,IAF-C--123,C-130J,Tactical Transport,No. 45 Squadron (Flying Daggers),2022-02-24,2799.6,2053,Available,2026-07-11,2026-10-09
+AF-024,IAF-C--124,C-130J,Tactical Transport,No. 7 Squadron (Battle Axes),2024-01-22,2605.8,1868,Grounded,2026-07-15,2026-10-13
+AF-025,IAF-C--125,C-130J,Tactical Transport,No. 77 Squadron (Veiled Vipers),2022-12-25,1352.0,954,Available,2026-07-06,2026-10-04
+AF-026,IAF-NE-126,Netra AEW&C,Airborne Early Warning,No. 102 Squadron (Trisonics),2022-07-31,776.6,540,In Maintenance,2026-08-01,2026-10-30
+AF-027,IAF-NE-127,Netra AEW&C,Airborne Early Warning,No. 17 Squadron (Golden Arrows),2022-04-03,712.1,550,Available,2026-09-21,2026-12-20
+AF-028,IAF-NE-128,Netra AEW&C,Airborne Early Warning,No. 45 Squadron (Flying Daggers),2024-01-29,2989.4,2190,Under Inspection,2026-06-03,2026-09-01

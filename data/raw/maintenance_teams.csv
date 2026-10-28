@@ -1,0 +1,6 @@
+team_id,team_name,specialty,technician_count,max_concurrent_aircraft,current_active_tasks
+TEAM-PROPULSION-A,Propulsion Systems Bay Alpha,Turbofan Engine,6,2,1
+TEAM-PROPULSION-B,Propulsion Systems Bay Bravo,Turbofan Engine,5,2,0
+TEAM-AVIONICS,Avionics & Radar Specialist Cell,Avionics & Radar System,4,2,1
+TEAM-HYDRAULICS,Hydraulic & Flight Control Section,Hydraulic Actuator,4,2,1
+TEAM-AIRFRAME-GEAR,Airframe & Landing Gear Depot,Landing Gear Assembly,5,3,0

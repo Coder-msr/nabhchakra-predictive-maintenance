@@ -1,0 +1,16 @@
+part_id,part_name,compatible_component_type,stock_quantity,reorder_threshold,lead_time_days,unit_cost_inr,status
+PRT-ENG-01,High-Pressure Turbine Rotor Blade Set,Turbofan Engine,4,6,28,2850000.0,Low Stock
+PRT-ENG-02,Full Authority Digital Engine Controller (FADEC),Turbofan Engine,2,3,45,4200000.0,Low Stock
+PRT-ENG-03,Turbine Bearings & High-Temp Lubrication Kit,Turbofan Engine,12,5,14,380000.0,In Stock
+PRT-ENG-04,Afterburner Fuel Spray Ring Nozzle,Turbofan Engine,0,4,35,890000.0,Out of Stock
+PRT-HYD-01,Primary Flight Control Electro-Hydraulic Servo Valve,Hydraulic Actuator,3,5,21,1150000.0,Low Stock
+PRT-HYD-02,High-Pressure Hydraulic Seal & Gasket Overhaul Kit,Hydraulic Actuator,18,8,10,145000.0,In Stock
+PRT-HYD-03,Variable Displacement Hydraulic Pump Assembly,Hydraulic Actuator,1,3,30,1820000.0,Low Stock
+PRT-AVN-01,AESA Radar Gallium Nitride (GaN) T/R Module,Avionics & Radar System,8,6,40,3100000.0,In Stock
+PRT-AVN-02,Integrated Core Processor / Mission Computer Board,Avionics & Radar System,0,2,50,5400000.0,Out of Stock
+PRT-AVN-03,Inertial Navigation Laser Gyroscope Sensor Unit,Avionics & Radar System,5,3,25,2250000.0,In Stock
+PRT-APU-01,APU High-Speed Starter Generator,Auxiliary Power Unit (APU),6,4,18,950000.0,In Stock
+PRT-APU-02,Gas Turbine Compressor Impeller Wheel,Auxiliary Power Unit (APU),2,3,30,1350000.0,Low Stock
+PRT-LGR-01,Main Landing Gear Carbon-Carbon Brake Disk Pack,Landing Gear Assembly,14,6,12,480000.0,In Stock
+PRT-LGR-02,Oleo-Pneumatic Shock Strut Seal Kit,Landing Gear Assembly,9,5,15,210000.0,In Stock
+PRT-LGR-03,Hydraulic Gear Retraction & Lock Actuator,Landing Gear Assembly,3,3,24,1650000.0,Low Stock
